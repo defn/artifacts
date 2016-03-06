@@ -2,6 +2,8 @@
   "require": [
     "cache",
     "artifactory",
-    "packagecloud"
+    "packagecloud",
+    "buildkite",
+    "jenkins"
   ]
 }
