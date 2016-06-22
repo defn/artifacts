@@ -1,8 +1,7 @@
 {
   "require": [
     "cache",
-    "packagecloud",
-    "buildkite",
-    "sinopia"
+    "sinopia",
+    "jenkins"
   ]
 }
