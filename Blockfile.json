@@ -1,7 +1,8 @@
 {
   "require": [
     "cache",
-    "sinopia",
+    "nexus",
+    "aptly",
     "jenkins"
   ]
 }
